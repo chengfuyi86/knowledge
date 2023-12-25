@@ -1,3 +1,5 @@
+#!/bin/bash
+# Author : ChengFuyi
 # use pip in your selected python enviroment to install the full ansible package for the current user:
 python3 -m pip install --user ansible
 

@@ -1,3 +1,5 @@
+#!/bin/bash
+# Author : ChengFuyi
 sudo dnf -y update
 
 sudo dnf install -y python3
